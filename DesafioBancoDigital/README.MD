@@ -1,6 +1,7 @@
 # 💳 Desafio Banco Digital (DIO) — Versão Melhorada
 
-Este projeto é uma **resolução aprimorada** do desafio **Banco Digital** proposto pela [Digital Innovation One (DIO)](https://web.dio.me/). Ele simula um sistema bancário simples com contas, depósitos, saques e histórico de transações.
+Este projeto é uma **resolução aprimorada** do desafio **Banco Digital** proposto pela [Digital Innovation One (DIO)](https://web.dio.me/).  
+Ele simula um sistema bancário simples com contas, depósitos, saques e histórico de transações.
 
 Foram adicionadas diversas melhorias:
 
