@@ -59,3 +59,4 @@ classDiagram
     ReprodutorMusical <|-- IPhone
     AparelhoTelefonico <|-- IPhone
     NavegadorInternet <|-- IPhone
+*
