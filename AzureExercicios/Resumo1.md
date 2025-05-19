@@ -74,13 +74,13 @@ Gastos operacionais — custos contínuos com serviços, como pagamento mensal p
 
 ## 📊 Comparação Geral
 
-| Aspecto       | CapEx (Servidor próprio)     | OpEx (Cloud)                   |
-|---------------|-------------------------------|--------------------------------|
-| Custo inicial | Alto                          | Baixo                          |
-| Flexibilidade | Baixa                         | Alta                           |
-| Manutenção    | Por conta da empresa          | Por conta do provedor          |
-| Escalabilidade| Limitada ao hardware comprado | Escalável sob demanda          |
-| Controle      | Total                         | Limitado                       |
+| Aspecto        | CapEx (Servidor próprio)      | OpEx (Cloud)          |
+|----------------|-------------------------------|-----------------------|
+| Custo inicial  | Alto                          | Baixo                 |
+| Flexibilidade  | Baixa                         | Alta                  |
+| Manutenção     | Por conta da empresa          | Por conta do provedor |
+| Escalabilidade | Limitada ao hardware comprado | Escalável sob demanda |
+| Controle       | Total                         | Limitado              |
 
 ---
 
