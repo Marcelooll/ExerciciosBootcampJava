@@ -1,6 +1,6 @@
 # ☁️ Azure - Computação, Máquinas Virtuais, Containers e Serviços de Aplicativos (Resumo 5)
 
-Este é o quinto e último resumo da série de estudos sobre **Azure Cloud**. Aqui, vamos nos aprofundar nos principais serviços de computação da plataforma, abordando:
+Aqui, vamos nos aprofundar nos principais serviços de computação da plataforma, abordando:
 
 - Máquinas Virtuais
 - Conjuntos de Disponibilidade
